@@ -166,7 +166,7 @@ i:before {
 }
 
 .main_w_title h2 {
-  color: #fff;
+  color: #9CAF88;
   font-family: "Playfair Display", serif;
   font-weight: bold;
   font-size: 38px;
@@ -179,7 +179,7 @@ i:before {
   content: "";
   width: 45px;
   height: 1px;
-  background: #fff;
+  background: #9CAF88;
   position: absolute;
   right: -60px;
   bottom: 7px;
@@ -190,14 +190,14 @@ i:before {
   line-height: 30px;
   font-family: "Lora", serif;
   font-style: italic;
-  color: #fff;
+  color: #9CAF88;
   margin-bottom: 0px;
 }
 
 .main_w_title h5 {
   font-size: 20px;
   font-family: "Lora", serif;
-  color: #fff;
+  color: #9CAF88;
   font-style: italic;
   margin-bottom: 0px;
 }
@@ -209,7 +209,7 @@ i:before {
 
 .single_w_title h2 {
   font-size: 36px;
-  color: #fff;
+  color: #9CAF88;
   font-family: "Playfair Display", serif;
   font-weight: bold;
   position: relative;
@@ -226,7 +226,7 @@ i:before {
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
   transform: translateX(-50%);
-  background: #fff;
+  background: #9CAF88;
   height: 1px;
 }
 
@@ -265,7 +265,7 @@ i:before {
 
 .single_pest_title h2 {
   font-size: 36px;
-  color: #3e606b;
+  color: #9CAF88;
   font-family: "Playfair Display", serif;
   font-weight: bold;
   position: relative;
@@ -282,14 +282,14 @@ i:before {
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
   transform: translateX(-50%);
-  background: #acb2b4;
+  background: #9CAF88;
   height: 1px;
 }
 
 .single_pest_title p {
   font-size: 20px;
   line-height: 26px;
-  color: #242424;
+  color: #9CAF88;
   font-family: "Lora", serif;
   font-style: italic;
   margin-top: 20px;
