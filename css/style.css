@@ -126,7 +126,7 @@ i:before {
 }
 
 .main_title h2 {
-  color: #3e606b;
+  color: #9CAF88;
   font-family: "Playfair Display", serif;
   font-weight: bold;
   font-size: 38px;
@@ -139,7 +139,7 @@ i:before {
   content: "";
   width: 45px;
   height: 1px;
-  background: #acb2b4;
+  background: #9CAF88;
   position: absolute;
   right: -60px;
   bottom: 7px;
@@ -149,14 +149,14 @@ i:before {
   font-size: 20px;
   line-height: 30px;
   font-family: "Lora", serif;
-  color: #242424;
+  color: #9CAF88;
   margin-bottom: 0px;
 }
 
 .main_title h5 {
   font-size: 20px;
   font-family: "Lora", serif;
-  color: #797979;
+  color: #9CAF88;
   margin-bottom: 0px;
   line-height: 30px;
 }
@@ -237,7 +237,7 @@ i:before {
 
 .single_b_title h2 {
   font-size: 36px;
-  color: #242424;
+  color: #9CAF88;
   font-family: "Playfair Display", serif;
   font-weight: bold;
   position: relative;
@@ -254,7 +254,7 @@ i:before {
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
   transform: translateX(-50%);
-  background: #242424;
+  background: #9CAF88;
   height: 1px;
 }
 
